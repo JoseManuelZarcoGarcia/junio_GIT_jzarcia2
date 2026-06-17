@@ -1,0 +1,4 @@
+/**
+ * 
+ */
+console.log("App2 junio iniciada");
